@@ -18,7 +18,7 @@ Hello!
 
 My name is Saurabh Verma and welcome to my Project Portfolio! A little bit about me. I did my undergraduate at United college of Engineering and Research where I majored in Electronics and Communication Technology with an emphasis on applications computational sciences. In my undergraduate studies, I builded my interest in Embedded Systems and worked on numerous project using various microprocessors but while working on my final year major project (i.e. Magic Mirror), i got to learn about Machine Learning and from then i started learning  Data Science by . I am also persuing Post Graduation Diploma in Data Analytics from Imarticus Learning, New Delhi.
 
-Now I focus on programming for whatever problems come my way, diving deep into the data to get insights and conducting analysis on topics that interest me!
+Now I focus on learning Data Science and tried working on several projects and hackathons, diving deep into the data to get insights and conducting analysis on topics that interest me!
 
 ### Contact Me
 

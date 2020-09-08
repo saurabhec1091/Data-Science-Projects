@@ -2,7 +2,7 @@
 
 This repository holds all of my personal end to end projects that I've done over the years. Currently they're binned in these different categories
 
-1. [Personal Data Science Projects](https://https://github.com/saurabhec1091/Data-Science-Projects)
+1. [Machine Learning Projects](https://https://github.com/saurabhec1091/Data-Science-Projects)
     - Chandigarh Housing Price Prediction
     - Song Sentiment Analysis
 2. [Embedded Systems Project](https://https://github.com/saurabhec1091/Data-Science-Projects)
